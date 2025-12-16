@@ -8,6 +8,7 @@ This script sits at the edge of the wormhole and watches when someone pulls **50
 No "whale alert".  
 No fireworks.  
 
+
 Just the quiet moment before:
 
 - A new jetton launches with 9-figure liquidity  
